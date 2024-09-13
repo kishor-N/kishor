@@ -3,16 +3,10 @@ Welcome to [kishor-N](https://github.com/kishor-N/)
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
-* Demanding Perfectionist
 
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/kishornsofficial)<br>
+
 📬 How to reach me: [kishornsoffical@gmail.com](mailto:kishornsoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/kishor-N/RESUME/blob/main/kishor-N%20official.pdf)<br>
-💪 This is where I write, code and solve problems.<br><br>
- As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
- things that change the world.
-
-
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> <img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Deep%20Learning
@@ -67,15 +61,6 @@ Researched and developed a robust machine learning model using accelerometer dat
 ✨[`@kishor`](https://github.com/kishor-N)✨**
 
 
-Projects: 
-# Startup-Company-Machine-Learning with Streamlit 
-
-"Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
-
-
-## Demo WebApp
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
-
 [Startup-Company-Machine-Learning with Streamlit ](https://github.com/kishor-N/Startup-Company-Machine-Learning)
 
 ## Project Overview:
@@ -97,41 +82,6 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ![demo](
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjbWJ0ZWJnb2R2MWl5cWpkeWVpdnJjdW80a2N6d3M4dDdxNWc3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsrxpmCAbUPDzrM236/giphy.gif)
-## Requirements
-Python 3.9.13
-Streamlit
-Machine Learning
-Pandas
-Numpy
-Scikit-learn
-
-## How to Run
-* Clone the repository
-
-```
-$ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
-```
-* Setup Virtual Environment
-
-```
-$ python3 -m venv env
-```
-* Activate the virtual environment
-
-```
-$ env\Scripts\activate
-```
-* Install dependencies using
-
-```
-$ pip install -r requirements.txt
-```
-* Run Streamlit
-
-```
-$ streamlit run main.py
-```
-</br>
 
 
 ## Acknowledgements
