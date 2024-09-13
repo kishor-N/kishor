@@ -80,9 +80,6 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ## Project Overview:
 
-#### Mr. Hirthick have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
-
-
 ###  If you have any doubt or want to contribute feel free to hit me up on (kishornsofficial@gmail.com)
 
 
@@ -158,7 +155,7 @@ This repository contains the code for a web-based diabetes prediction applicatio
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
 
 ## Features
-### [image](https://i.makeagif.com/media/5-28-2016/Q7AiJf.mp4)
+### ![image](https://i.makeagif.com/media/5-28-2016/Q7AiJf.mp4)
 - Users can input their health parameters such as Glucose level, Blood Pressure, Skin Thickness, Insulin level, BMI, Diabetes Pedigree Function (DPF), and Age.
 - The ensemble machine learning model predicts the likelihood of diabetes based on the input.
 - The app displays the prediction result, indicating whether the user is likely to have diabetes or not.
